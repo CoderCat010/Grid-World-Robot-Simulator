@@ -1,4 +1,4 @@
-<img width="2000" height="720" alt="Grid World Robot Simulator banner" src="https://github.com/user-attachments/assets/626b5f43-2daf-4892-998c-14ab5b3c288b" />
+<img width="2000" height="720" alt="image" src="https://github.com/user-attachments/assets/a6612d10-c6e7-40a7-bef8-026351f678ed" />
 
 # Grid World Robot Simulator
 
