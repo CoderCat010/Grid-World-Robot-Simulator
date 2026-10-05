@@ -1,4 +1,4 @@
-<img width="2000" height="720" alt="image" src="https://github.com/user-attachments/assets/a6612d10-c6e7-40a7-bef8-026351f678ed" />
+<img width="2000" height="720" alt="image" src="https://github.com/user-attachments/assets/9bb60b6b-ea4a-440e-b977-7fb348663846" />
 
 # Grid World Robot Simulator
 
